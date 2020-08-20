@@ -1,0 +1,10 @@
+.ErrorMessage {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.ErrorMessage h1 {
+  color: #ff0028;
+}
